@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(208, 244, 222);
+}
+h1{
+    font-size: 42px;
+    text-align: center;
+    justify-content: center;
+    text-decoration: underline;
+}
+.table{
+    background: white;
+}
+h2{
+    color: rgba(42, 157, 143);
+    font-family: cursive;
+
+}
+h4{
+    font-size: 25px;
+    color: rgba(201, 24, 74);
+}
+h3{
+    font-size: 32px;
+}
+a{
+    color: rgba(22, 96, 136);
+}
